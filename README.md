@@ -1,4 +1,4 @@
 # Learning-github
 I'm learning git hub 
 
-Auther -- Qamar Maqsood 
+Author -- Qamar Maqsood 
